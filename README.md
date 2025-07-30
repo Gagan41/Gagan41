@@ -12,7 +12,9 @@
 <p align="center">
  🔭 Currently exploring MERN-Stack, Cyber Security and Machine Learning<br/>
  💻 I’m passionate about DSA, Bug Bounty<br/>
- ⚡ Fun fact: 🚩 My antivirus fears me
+ ⚡ Fun fact: 🚩 My antivirus fears me<br/>
+ 👨‍💻 All of my projects are available at <a href="https://github.com/Gagan41" target="_blank"><strong>GitHub</strong></a><br>
+ 📫 How to reach me: <a href="mailto:chinmay.l10m8@gmail.com"><strong>gagant.p100@gmail.com</strong></a><br><br>
 </p>
 
 <br/>
@@ -105,6 +107,7 @@
 <h2 align="center">📊 GitHub Stats:</h2>
 
 <p align="center">
+  <img src="https://leetcard.jacoblin.cool/venom_41?theme=dark&font=Play&ext=heatmap"><br/>
   <img src="https://github-readme-stats.vercel.app/api?username=Gagan41&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Gagan41&theme=dark&hide_border=false" /><br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan41&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" />
