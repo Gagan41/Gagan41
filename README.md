@@ -1,3 +1,9 @@
+<h2 align="center">Hey 👋 I'm Gagan TP</h2><p align="center">Computer Science And Engineering student from Karnataka</p>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=Gagan41&&style=flat-square" align="center" />
+</div> 
+
 # 💫 About Me:
 <br>- 🔭 Currently exploring MERN-Stack , Cyber Security and Machine Learning<br>- 💻 I’m passionate about DSA, Bug Bounty<br>- ⚡ Fun fact : 🚩 My antivirus fears me<br>
 
@@ -12,7 +18,5 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Gagan41&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagan41&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Gagan41&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
