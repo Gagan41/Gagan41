@@ -1,4 +1,4 @@
-<h2 align="center">Yo 👋 I'm Gagan TP</h2>
+<h2 align="center">Accessing Node: Gagan TP 👾<h2>
 <p align="center">Computer Science And Engineering student from Karnataka</p>
 
 <p align="center">
