@@ -14,7 +14,7 @@
  💻 I’m passionate about DSA, Bug Bounty<br/>
  ⚡ Fun fact: 🚩 My antivirus fears me<br/>
  👨‍💻 All of my projects are available at <a href="https://github.com/Gagan41" target="_blank"><strong>GitHub</strong></a><br>
- 📫 How to reach me: <a href="mailto:chinmay.l10m8@gmail.com"><strong>gagant.p100@gmail.com</strong></a><br><br>
+ 📫 How to reach me: <a href="mailto:gagant.p100@gmail.com"><strong>gagant.p100@gmail.com</strong></a><br><br>
 </p>
 
 <br/>
